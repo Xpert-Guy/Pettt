@@ -1,0 +1,14 @@
+{
+    "name": "Petpo",
+    "description": "P E T",
+    "authors": [
+        {
+            "name": "Wolfie",
+            "id": "293756392847293856"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
